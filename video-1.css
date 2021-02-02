@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("arkaplan.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 10%;
+    padding-top: 10px;
+}
+#v1{
+    float: left;
+    width: 45%;
+    height: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color:navy;
+    font-weight: bold;
+    background-color:gainsboro;
+}
+#v2{
+    float: left;
+    width: 45%;
+    height: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color:navy;
+    background-color:gainsboro;
+    font-weight: bold;
+}
+table,th,td{
+    border:1px solid black;
+}
+td{
+    height:  20px;
+}
+#buton{
+            float: right;
+           margin-top: 10px;
+            margin-right: 10px;
+            }
+            #buton2{
+                float:right;
+               margin-top: 10px;
+            }
